@@ -1,0 +1,225 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+#navbar-extra-style {
+    background-color: #518999;
+}
+
+
+#navtext {
+    color: #290227;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Bree Serif;
+}
+
+.s-logo {
+    width: 60px;
+    height: 60px;
+    border-radius: 60px;
+    border-style: solid;
+    border-color: #06091c;
+    border-width: 5px;
+}
+
+.portfolio-background {
+    background-color: #e6e8f7;
+
+}
+
+
+.banner-img {
+    border-radius: 8000px;
+    padding: 30px;
+    margin-top: 30px;
+}
+
+.introduce-head {
+    color: #184d63;
+    font-weight: 500;
+    font-size: 30px;
+}
+
+.introduce-para {
+    color: #184d63;
+    font-weight: 500;
+}
+
+.name-style {
+    font-weight: bold;
+    font-family: Serif;
+    color: #053842;
+}
+
+
+.about-me-section-container {
+    background-color: #dde8eb;
+}
+
+.about-me-head {
+    color: #184d63;
+    font-weight: 500;
+    font-size: 27px;
+}
+
+.about-me-para {
+    color: #184d63;
+    font-weight: 500;
+    font-size: 17px;
+}
+
+
+.skills-container {
+    background-color: #dde8eb;
+}
+
+.skills-img {
+    padding: 10px;
+}
+
+.skills-card {
+    background-color: white;
+    border-radius: 10px
+}
+
+.skills-name {
+    color: #184d63;
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 7px;
+}
+
+.portfolio-project-container {
+    background-color: #e6e8f7;
+    height: 100vh;
+}
+
+.project-card {
+    background-color: #dde8eb;
+}
+
+.h-one {
+    color: #184d63;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.h-two {
+    color: #062933;
+    font-weight: bold;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.hotel-pro-img {
+    width: 100%;
+}
+
+p {
+    color: #184d63;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.card-head {
+    color: #062933;
+    font-weight: normal;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+
+
+.project-card {
+    background-color: #dde8eb;
+    border-radius: 10px;
+}
+
+.read-more {
+    color: #cced00;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+#arrow1 {
+    width: 25px;
+    height: 25px;
+    color: #184d63;
+}
+
+
+.services-card {
+    background-color: #dde8eb;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.services-img {
+    width: 80px;
+    height: 80px;
+}
+
+.workdone-container {
+    padding: 10px;
+    background-color: #dde8eb;
+}
+
+#thumbs-up {
+    color: #062933;
+    height: 50px;
+    width: 50px;
+    font-weight: bold;
+}
+
+hr {
+    background-color: black;
+    width: 70px;
+}
+
+.workdone-heading {
+    font-size: 30px;
+    color: #053842;
+    font-weight: bold;
+}
+
+.workdone-para {
+    font-size: 20px;
+    color: #053842;
+    font-weight: bold;
+}
+
+.footer-container {
+    background-color: #dde8eb;
+}
+
+.footer-heading {
+    font-size: 25px;
+    color: #062b36;
+    font-weight: bold;
+}
+
+.footer-paragraph {
+    color: #184d63;
+    font-weight: 500;
+}
+
+.profile-img {
+    border-radius: 45px;
+    height: 80px;
+    width: 80px;
+}
+
+.font-awesome-logo {
+    color: #5a7184;
+    font-size: 25px;
+}
+
+#footer-logo-paragraph {
+    color: #184d63;
+    font-weight: 500;
+}
+
+.footer-copyright-container {
+    background-color: #001c32;
+}
